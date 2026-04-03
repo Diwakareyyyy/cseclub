@@ -83,8 +83,8 @@ export const events: Event[] = [
   {
     id: "6",
     title: "Glitchyugam'26",
-    date: "09 & 10 Apr 2026",
-    time: "9:00 AM - 4:00 PM",
+    date: "10 Apr 2026",
+    time: "9:00 AM - 5:00 PM",
     venue: "Zeta conference hall & Beta conference hall",
     description: "Annual technical festival featuring coding contests, cybersecurity challenges, project exhibitions, and guest lectures from industry leaders.",
     club: "Both",
